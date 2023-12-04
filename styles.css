@@ -1,5 +1,7 @@
 .header{
     background-color: #1F2937;
+    display: flex;
+    justify-content: space-around;
 }
 
 .logo{
@@ -7,6 +9,7 @@
     font-size: 24px;
 }
 
-.header-items{
+.header-button{
     color: #E5E7EB;
+    font-size: 18px;
 }
