@@ -1,5 +1,6 @@
 .header{
     background-color: #1F2937;
+    text-align: left;
     display: flex;
     justify-content: space-around;
 }
