@@ -1,16 +1,24 @@
+body {
+  background-color: #6c7086;
+}
+
 .header{
-    background-color: #1F2937;
-    text-align: left;
-    display: flex;
-    justify-content: space-around;
+  background-color: #12122e;
+  /* text-align: center; */
+  display: flex;
+  justify-content: space-around;
+  border-radius: 1rem;
 }
 
 .logo{
-    color: #F9FAF8;
-    font-size: 24px;
+  color: #cdd6f4;
+  flex: 0.85;
+  margin: 1rem 8px;
+  font-size: 24px;
 }
 
 .header-button{
-    color: #E5E7EB;
-    font-size: 18px;
+  color: #cdd6f4;
+  font-size: 18px;
+  margin: auto 8px;
 }
