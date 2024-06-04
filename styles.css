@@ -95,6 +95,7 @@ button {
 .section-1 img {
   width: 550px;
   height: 250px;
+  border-radius: 10px;
 }
 
 .main-info {
