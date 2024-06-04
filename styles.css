@@ -138,6 +138,10 @@ button {
   width: 200px;
   height: 200px;
   border-radius: 12px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #3B82F6;
+  object-fit: cover;
 }
 
 .section-2 h2 {
